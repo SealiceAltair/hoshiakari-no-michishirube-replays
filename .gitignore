@@ -1,0 +1,19 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+*~
+
+# Never publish drafts or raw session logs
+drafts/
+private/
+raw_logs/
+*.log
+
+# Secrets and local configuration
+.env
+.env.*
+*.key
+*.pem
