@@ -18,7 +18,7 @@ last_updated: "2026-07-19"
 
 <img src="../assets/characters/mine_a_redfox/mine_a_redfox_standing.png"
      alt="マイン・A・レッドフォックスのキャラクター画像"
-     width="360">
+     height="480">
 
 暗殺を生業とする一家で育ち、父の「広い世界を知れ」という言葉を受けて旅へ出た15歳の少女。小太刀と隠密を得意とし、速度と効率を重視して依頼を遂行する。
 
