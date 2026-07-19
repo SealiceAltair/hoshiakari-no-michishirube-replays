@@ -19,9 +19,11 @@
 
 ### カイト
 
-<img src="assets/characters/kaito/kaito_first_job_official_standing.png"
-     alt="カイトのキャラクター画像"
-     height="480">
+<p align="center">
+  <img src="assets/characters/kaito/kaito_first_job_official_standing.png"
+       alt="カイトのキャラクター画像"
+       height="480">
+</p>
 
 村を守れる人になるため、中継都市で冒険者として歩き始めた少年。
 
@@ -29,9 +31,11 @@
 
 ### フィトリアット・マリアベル
 
-<img src="assets/characters/fitriat/fitriat_public_profile.png"
-     alt="フィトリアット・マリアベルのキャラクター画像"
-     height="480">
+<p align="center">
+  <img src="assets/characters/fitriat/fitriat_public_profile.png"
+       alt="フィトリアット・マリアベルのキャラクター画像"
+       height="480">
+</p>
 
 特大剣グランを相棒と呼び、自分の強さを信じて歩き始めた少女。
 
@@ -39,9 +43,11 @@
 
 ### マイン・A・レッドフォックス
 
-<img src="assets/characters/mine_a_redfox/mine_a_redfox_standing.png"
-     alt="マイン・A・レッドフォックスのキャラクター画像"
-     height="480">
+<p align="center">
+  <img src="assets/characters/mine_a_redfox/mine_a_redfox_standing.png"
+       alt="マイン・A・レッドフォックスのキャラクター画像"
+       height="480">
+</p>
 
 暗殺一家で育ち、父の言葉を受けて、広い世界を知るため冒険者となった小太刀使いの少女。
 
@@ -49,9 +55,11 @@
 
 ### カーヴェイン
 
-<img src="assets/characters/carvain/carvain_standing.png"
-     alt="カーヴェインのキャラクター画像"
-     height="480">
+<p align="center">
+  <img src="assets/characters/carvain/carvain_standing.png"
+       alt="カーヴェインのキャラクター画像"
+       height="480">
+</p>
 
 右腕に悪魔を封じた永劫の存在を名乗り、世界を手中に収める覇道を歩き始めた仕込み刀使いの少年。
 
