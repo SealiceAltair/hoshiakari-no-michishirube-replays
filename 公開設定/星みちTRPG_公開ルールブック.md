@@ -2,12 +2,12 @@
 document_type: public_trpg_rulebook
 status: "公開中"
 canon_handling: "非公開正本352準拠"
-last_updated: "2026-07-22"
+last_updated: "2026-07-23"
 ---
 
 # 星明かりの道しるべTRPG 公開ルールブック
 
-[公開設定一覧](README.md) / [公開キャラクター・モンスターデータ](星みちTRPG_公開キャラクター・モンスターデータ.md) / [キャラクタービルドシミュレーター](https://sealicealtair.github.io/hoshimichi-character-sheet-builder/) / [公開資料トップ](../README.md)
+[公開設定一覧](README.md) / [キャラクター設定一覧](../キャラクター設定/README.md) / [公開キャラクターシート用テンプレート](../キャラクター設定/公開キャラクターシート用テンプレート完全版.md) / [キャラクタービルドシミュレーター](https://sealicealtair.github.io/hoshimichi-character-sheet-builder/) / [公開資料トップ](../README.md)
 
 言葉で行動し、選択とダイスによって世界に歴史を残す、対話型ファンタジーTRPGです。略称は「星みちTRPG」です。
 
@@ -222,4 +222,4 @@ PCは、自分が振るために必要な最終成功値と判定式を確認で
 
 ---
 
-[公開設定一覧](README.md) / [公開キャラクター・モンスターデータ](星みちTRPG_公開キャラクター・モンスターデータ.md) / [キャラクタービルドシミュレーター](https://sealicealtair.github.io/hoshimichi-character-sheet-builder/) / [公開資料トップ](../README.md)
+[公開設定一覧](README.md) / [キャラクター設定一覧](../キャラクター設定/README.md) / [公開キャラクターシート用テンプレート](../キャラクター設定/公開キャラクターシート用テンプレート完全版.md) / [キャラクタービルドシミュレーター](https://sealicealtair.github.io/hoshimichi-character-sheet-builder/) / [公開資料トップ](../README.md)
